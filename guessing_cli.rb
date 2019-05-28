@@ -34,3 +34,5 @@ def compare_numbers(num, res)
     puts "The computer guessed #{num}."
   end
 end
+
+run_guessing_game
